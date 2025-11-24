@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="12dp"
+    app:cardCornerRadius="18dp"
+    app:cardElevation="0dp"
+    app:strokeColor="@color/brand_outline"
+    app:strokeWidth="1dp"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvReservationTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Luna - Consulta General"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/brand_text_primary" />
+
+        <TextView
+            android:id="@+id/tvReservationDate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="12 Oct 2025 · 10:30"
+            android:textColor="@color/brand_text_secondary"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tvReservationStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:paddingHorizontal="12dp"
+            android:paddingVertical="4dp"
+            android:text="Confirmada"
+            android:textColor="@color/brand_on_primary"
+            android:textStyle="bold"
+            android:background="@drawable/bg_status_chip" />
+    </LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>
+
+
+
+
+
+

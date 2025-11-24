@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@color/brand_background">
+
+    <TextView
+        android:id="@+id/tvPetDetailTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/brand_text_primary"
+        android:text="Ficha de Luna" />
+
+    <TextView
+        android:id="@+id/tvPetDetailBreed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/brand_text_secondary"
+        android:text="Raza: Labrador" />
+
+    <TextView
+        android:id="@+id/tvPetDetailAge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textColor="@color/brand_text_secondary"
+        android:text="Edad: 4 años" />
+
+    <TextView
+        android:id="@+id/tvPetDetailWeight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textColor="@color/brand_text_secondary"
+        android:text="Peso: 22.5 kg" />
+
+    <TextView
+        android:id="@+id/tvPetDetailLastVisit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textColor="@color/brand_text_secondary"
+        android:text="Última visita: 12 Oct 2025" />
+
+    <TextView
+        android:id="@+id/tvPetDetailPositive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:padding="12dp"
+        android:text="@string/pet_detail_positive"
+        android:textColor="@color/brand_primary"
+        android:background="@drawable/bg_form_card" />
+
+</LinearLayout>
+
+
+
+
+
+

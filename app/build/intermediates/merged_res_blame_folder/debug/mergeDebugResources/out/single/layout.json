@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.example.miperfil.app-mergeDebugResources-43:/layout/item_reservation_card.xml",
+        "source": "com.example.miperfil.app-main-46:/layout/item_reservation_card.xml"
+    },
+    {
+        "merged": "com.example.miperfil.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "com.example.miperfil.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.miperfil.app-mergeDebugResources-43:/layout/item_product_card.xml",
+        "source": "com.example.miperfil.app-main-46:/layout/item_product_card.xml"
+    },
+    {
+        "merged": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-mergeDebugResources-43:/layout/bottom_sheet_pet_detail.xml",
+        "source": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-main-46:/layout/bottom_sheet_pet_detail.xml"
+    },
+    {
+        "merged": "com.example.miperfil.app-mergeDebugResources-43:/layout/bottom_sheet_pet_detail.xml",
+        "source": "com.example.miperfil.app-main-46:/layout/bottom_sheet_pet_detail.xml"
+    },
+    {
+        "merged": "com.example.miperfil.app-mergeDebugResources-43:/layout/dialog_add_pet.xml",
+        "source": "com.example.miperfil.app-main-46:/layout/dialog_add_pet.xml"
+    },
+    {
+        "merged": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-mergeDebugResources-43:/layout/activity_register.xml",
+        "source": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-main-46:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-mergeDebugResources-43:/layout/dialog_add_pet.xml",
+        "source": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-main-46:/layout/dialog_add_pet.xml"
+    },
+    {
+        "merged": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-mergeDebugResources-43:/layout/item_product_card.xml",
+        "source": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-main-46:/layout/item_product_card.xml"
+    },
+    {
+        "merged": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-mergeDebugResources-43:/layout/activity_dashboard.xml",
+        "source": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-main-46:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-mergeDebugResources-43:/layout/activity_profile.xml",
+        "source": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-main-46:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-mergeDebugResources-43:/layout/dialog_add_reservation.xml",
+        "source": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-main-46:/layout/dialog_add_reservation.xml"
+    },
+    {
+        "merged": "com.example.miperfil.app-mergeDebugResources-43:/layout/dialog_add_reservation.xml",
+        "source": "com.example.miperfil.app-main-46:/layout/dialog_add_reservation.xml"
+    },
+    {
+        "merged": "com.example.miperfil.app-mergeDebugResources-43:/layout/item_pet_card.xml",
+        "source": "com.example.miperfil.app-main-46:/layout/item_pet_card.xml"
+    },
+    {
+        "merged": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-mergeDebugResources-43:/layout/item_pet_card.xml",
+        "source": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-main-46:/layout/item_pet_card.xml"
+    },
+    {
+        "merged": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-mergeDebugResources-43:/layout/item_reservation_card.xml",
+        "source": "/Users/myfolder/.gradle/daemon/8.13/com.example.miperfil.app-main-46:/layout/item_reservation_card.xml"
+    }
+]

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PetsOnline</string>
+    <string name="welcome_subtitle">Gestiona tu perfil personal</string>
+    <string name="register_title">Crear Cuenta</string>
+    <string name="profile_title">Mi Perfil</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="name_hint">Nombre completo</string>
+    <string name="phone_hint">Teléfono</string>
+    <string name="register_button">Registrarse</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="save_button">Guardar</string>
+    <string name="camera_button">Tomar Foto</string>
+    <string name="gallery_button">Seleccionar de Galería</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">PetsOnline</string>
+    <string name="dashboard_greeting">Tu tienda canina centralizada</string>
+    <string name="dashboard_subtitle">Monitorea mascotas, productos y reservas en un solo lugar.</string>
+    <string name="pets_label">Mascotas activas</string>
+    <string name="reservations_label">Reservas futuras</string>
+    <string name="pets_section_title">Mascotas recientes</string>
+    <string name="products_section_title">Productos destacados</string>
+    <string name="reservations_section_title">Reservas veterinarias</string>
+    <string name="add_pet_action">Nueva mascota</string>
+    <string name="add_reservation_action">Nueva reserva</string>
+    <string name="menu_profile">Perfil</string>
+
+    <!-- Formularios adicionales -->
+    <string name="pet_name_hint">Nombre de la mascota</string>
+    <string name="pet_breed_hint">Raza</string>
+    <string name="pet_age_hint">Edad (años)</string>
+    <string name="pet_weight_hint">Peso</string>
+    <string name="select_pet_hint">Selecciona la mascota</string>
+    <string name="select_service_hint">Selecciona el servicio</string>
+    <string name="reservation_date_hint">Fecha y hora</string>
+    <string name="dialog_add_pet_title">Registrar mascota</string>
+    <string name="dialog_add_reservation_title">Agendar servicio</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="empty_pet_list">Aún no registras mascotas. ¡Comienza agregando una!</string>
+    <string name="empty_reservations_list">Agrega tu primera reserva para ver el historial.</string>
+    <string name="search_products_hint">Buscar productos o servicios</string>
+    <string name="chip_all">Todos</string>
+    <string name="pet_detail_title">Ficha de %1$s</string>
+    <string name="pet_detail_breed">Raza: %1$s</string>
+    <string name="pet_detail_age">Edad: %1$d años</string>
+    <string name="pet_detail_weight">Peso: %1$.1f kg</string>
+    <string name="pet_detail_last_visit">Última visita: %1$s</string>
+    <string name="pet_detail_positive">Mascota al día con sus cuidados</string>
+    <string name="go_to_profile_button">Ir a mi perfil</string>
+    <string name="find_vet_button">Buscar veterinaria cercana</string>
+    <string name="location_permission_required">Necesitamos tu ubicación para sugerirte clínicas.</string>
+    <string name="location_unavailable">No pudimos obtener tu ubicación. Intenta nuevamente.</string>
+</resources>

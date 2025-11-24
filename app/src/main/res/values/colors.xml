@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta principal PetsOnline -->
+    <color name="brand_primary">#7A56FF</color>
+    <color name="brand_primary_dark">#4F2ED1</color>
+    <color name="brand_on_primary">#FFFFFFFF</color>
+    <color name="brand_secondary">#FFB648</color>
+    <color name="brand_on_secondary">#251201</color>
+    <color name="brand_surface">#F7F4FF</color>
+    <color name="brand_surface_variant">#E5DDFE</color>
+    <color name="brand_background">#FFFFFF</color>
+    <color name="brand_outline">#D6CEFA</color>
+    <color name="brand_text_primary">#1F1B2E</color>
+    <color name="brand_text_secondary">#5B5675</color>
+    <color name="brand_success">#3CBF96</color>
+    <color name="brand_warning">#F9A826</color>
+    <color name="brand_error">#FF5C77</color>
+
+    <!-- Colores legacy conservados para compatibilidad -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

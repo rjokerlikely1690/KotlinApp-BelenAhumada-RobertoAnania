@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Mi Perfil</string>
+    <string name="camera_button">Tomar Foto</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="gallery_button">Seleccionar de Galería</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="name_hint">Nombre completo</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="phone_hint">Teléfono</string>
+    <string name="profile_title">Mi Perfil</string>
+    <string name="register_button">Registrarse</string>
+    <string name="register_title">Crear Cuenta</string>
+    <string name="save_button">Guardar</string>
+    <string name="welcome_subtitle">Gestiona tu perfil personal</string>
+    <style name="Theme.MiPerfil" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+</resources>
